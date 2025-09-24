@@ -1,2 +1,2 @@
 # PythonProjects
- This is quizzier game start project
+ This is quizz game app project
